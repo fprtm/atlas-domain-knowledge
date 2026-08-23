@@ -1255,6 +1255,194 @@ requirements yang sangat tinggi.
 
 ------------------------------------------------------------------------
 
+## U. Non-Profit & Social Sector
+
+### Subdomain
+
+-   NGO;
+-   foundation;
+-   social enterprise;
+-   advocacy;
+-   humanitarian aid;
+-   community development.
+
+### Processes
+
+-   program design;
+-   fundraising;
+-   grant management;
+-   volunteer management;
+-   beneficiary intake;
+-   impact reporting;
+-   compliance.
+
+### Systems
+
+-   donor CRM;
+-   grant management system;
+-   volunteer management;
+-   fundraising platform;
+-   impact measurement.
+
+### Data
+
+-   donor;
+-   donation;
+-   grant;
+-   program;
+-   beneficiary;
+-   volunteer;
+-   impact metric.
+
+### AI
+
+-   donor segmentation;
+-   fraud detection (donation);
+-   impact prediction;
+-   grant matching.
+
+------------------------------------------------------------------------
+
+## V. Sports, Fitness & Wellness
+
+### Subdomain
+
+-   professional sports;
+-   fitness center;
+-   wellness/spa;
+-   sports league;
+-   sports media;
+-   personal training.
+
+### Systems
+
+-   membership management;
+-   booking;
+-   wearable/fitness tracking;
+-   league management;
+-   ticketing.
+
+### Data
+
+-   member;
+-   session;
+-   performance metric;
+-   team;
+-   match;
+-   ticket.
+
+### AI
+
+-   performance analysis;
+-   injury prediction;
+-   personalized training plan;
+-   demand forecasting (class booking).
+
+------------------------------------------------------------------------
+
+## W. Fashion & Apparel
+
+### Value chain
+
+``` text
+Design
+→ Sourcing
+→ Manufacturing
+→ Wholesale/Retail
+→ E-commerce
+→ Customer
+→ Returns
+```
+
+### Systems
+
+-   PLM;
+-   ERP;
+-   POS;
+-   e-commerce;
+-   inventory;
+-   size/fit recommendation.
+
+### AI
+
+-   trend forecasting;
+-   size recommendation;
+-   visual search;
+-   virtual try-on;
+-   demand forecasting.
+
+------------------------------------------------------------------------
+
+## X. Cybersecurity
+
+### Subdomain
+
+-   application security;
+-   network security;
+-   identity & access management;
+-   threat intelligence;
+-   incident response;
+-   managed security services.
+
+### Systems
+
+-   SIEM;
+-   SOAR;
+-   EDR/XDR;
+-   vulnerability management;
+-   IAM;
+-   firewall/IDS-IPS.
+
+### Data
+
+-   asset;
+-   vulnerability;
+-   threat;
+-   incident;
+-   log event;
+-   identity.
+
+### AI
+
+-   anomaly detection;
+-   threat detection;
+-   phishing detection;
+-   automated triage.
+
+------------------------------------------------------------------------
+
+## Y. Sustainability & ESG
+
+### Subdomain
+
+-   carbon accounting;
+-   renewable energy;
+-   circular economy;
+-   ESG reporting;
+-   environmental compliance.
+
+### Systems
+
+-   ESG reporting platform;
+-   carbon tracking;
+-   supply chain traceability.
+
+### Data
+
+-   emission;
+-   energy usage;
+-   waste;
+-   supplier ESG score;
+-   compliance report.
+
+### AI
+
+-   emission forecasting;
+-   anomaly detection (energy usage);
+-   supply chain risk scoring.
+
+------------------------------------------------------------------------
+
 # 9. Cross-Industry Corporate Functions
 
 Hampir semua perusahaan memiliki fungsi berikut.
@@ -1476,6 +1664,191 @@ Contoh:
 -   opportunity;
 -   activity;
 -   deal.
+
+------------------------------------------------------------------------
+
+## Product Manager
+
+**Responsibilities**
+
+-   define product vision;
+-   prioritize roadmap;
+-   gather requirements;
+-   coordinate stakeholders;
+-   validate solutions.
+
+**Tasks**
+
+-   write PRD;
+-   run discovery interview;
+-   prioritize backlog;
+-   analyze metrics;
+-   run experiment.
+
+**Skills**
+
+-   product strategy;
+-   user research;
+-   data analysis;
+-   communication;
+-   prioritization.
+
+**Systems**
+
+-   roadmap tool;
+-   analytics;
+-   A/B testing;
+-   project management;
+-   CRM.
+
+**Outputs**
+
+-   roadmap;
+-   PRD;
+-   feature spec;
+-   experiment result.
+
+**KPI**
+
+-   adoption;
+-   retention;
+-   NPS;
+-   feature usage;
+-   time-to-market.
+
+------------------------------------------------------------------------
+
+## Data Analyst
+
+**Responsibilities**
+
+-   extract insight;
+-   build report;
+-   maintain dashboard;
+-   validate data quality.
+
+**Tasks**
+
+-   write query;
+-   build dashboard;
+-   analyze trend;
+-   present finding;
+-   clean data.
+
+**Skills**
+
+-   SQL;
+-   statistics;
+-   visualization;
+-   business acumen;
+-   storytelling.
+
+**Systems**
+
+-   data warehouse;
+-   BI tool;
+-   spreadsheet;
+-   notebook.
+
+**Outputs**
+
+-   dashboard;
+-   report;
+-   analysis;
+-   recommendation.
+
+**KPI**
+
+-   decision impact;
+-   report accuracy;
+-   turnaround time.
+
+------------------------------------------------------------------------
+
+## HR Business Partner
+
+**Responsibilities**
+
+-   align HR strategy with business;
+-   support workforce planning;
+-   manage employee relations.
+
+**Tasks**
+
+-   recruitment support;
+-   performance calibration;
+-   conflict resolution;
+-   policy advisory.
+
+**Skills**
+
+-   employment law;
+-   negotiation;
+-   coaching;
+-   organizational design.
+
+**Systems**
+
+-   HRIS;
+-   ATS;
+-   performance management.
+
+**Outputs**
+
+-   workforce plan;
+-   policy;
+-   performance review.
+
+**KPI**
+
+-   retention;
+-   time-to-hire;
+-   employee engagement.
+
+------------------------------------------------------------------------
+
+## Customer Support Agent
+
+**Responsibilities**
+
+-   resolve customer issue;
+-   document interaction;
+-   escalate complex case.
+
+**Tasks**
+
+-   answer ticket;
+-   troubleshoot;
+-   process refund;
+-   update knowledge base.
+
+**Skills**
+
+-   communication;
+-   product knowledge;
+-   empathy;
+-   troubleshooting.
+
+**Systems**
+
+-   helpdesk/ticketing;
+-   CRM;
+-   knowledge base;
+-   chat.
+
+**Data**
+
+-   ticket;
+-   customer;
+-   interaction;
+-   resolution.
+
+**KPI**
+
+-   first response time;
+-   resolution time;
+-   CSAT;
+-   ticket backlog.
 
 ------------------------------------------------------------------------
 
@@ -2253,6 +2626,53 @@ mengumpulkan, mendeskripsikan, memproses, dan menyajikan konsep beserta
 designation/istilahnya; pendekatan tersebut berlaku lintas bidang
 seperti ilmiah, teknologi, industri, hukum, dan administrasi.
 citeturn0search0turn0search13
+
+### Contoh entry
+
+``` yaml
+term: Purchase Order
+domain: procurement
+language: en
+abbreviation: PO
+definition: >
+  A commercial document issued by a buyer to a seller, indicating type,
+  quantity, and agreed price for products or services.
+alternative_terms:
+  - Order Pembelian
+  - Surat Pesanan
+broader_term: procurement document
+narrower_term: blanket purchase order
+related_terms:
+  - invoice
+  - goods_receipt_note
+  - supplier
+examples:
+  - "PO #2026-0453 dikirim ke supplier untuk 500 unit raw material."
+source: internal glossary
+version: 1.0
+effective_date: 2026-08-22
+```
+
+``` yaml
+term: Service Level Agreement
+domain: operations
+language: en
+abbreviation: SLA
+definition: >
+  A commitment between a service provider and a client that defines
+  the expected level of service, including metrics and remedies.
+alternative_terms:
+  - Perjanjian Tingkat Layanan
+broader_term: contract
+narrower_term: operational level agreement
+related_terms:
+  - KPI
+  - incident
+  - escalation
+source: umumnya diacu dari standar IT service management (mis. ISO/IEC 20000)
+version: 1.0
+effective_date: 2026-08-22
+```
 
 ------------------------------------------------------------------------
 
