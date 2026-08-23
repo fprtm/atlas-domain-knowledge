@@ -499,6 +499,78 @@ Apa yang diketahui dan bagaimana keputusan dibuat:
 
 ------------------------------------------------------------------------
 
+## 5.4 Engineering
+
+### Cabang
+
+-   mechanical engineering;
+-   electrical engineering;
+-   civil engineering;
+-   chemical engineering;
+-   industrial engineering;
+-   software engineering;
+-   systems engineering;
+-   aerospace engineering;
+-   environmental engineering.
+
+### Digunakan oleh
+
+-   manufacturing;
+-   construction;
+-   energy;
+-   automotive;
+-   aerospace & defense.
+
+------------------------------------------------------------------------
+
+## 5.5 Medicine & Health Sciences
+
+### Cabang
+
+-   clinical medicine;
+-   surgery;
+-   pharmacology;
+-   pathology;
+-   radiology;
+-   public health;
+-   epidemiology;
+-   nursing;
+-   nutrition;
+-   dentistry.
+
+### Digunakan oleh
+
+-   hospital;
+-   clinic;
+-   pharmaceutical;
+-   insurance;
+-   public health agency.
+
+------------------------------------------------------------------------
+
+## 5.6 Business & Management
+
+### Cabang
+
+-   management;
+-   strategy;
+-   marketing;
+-   finance;
+-   accounting;
+-   operations management;
+-   organizational behavior;
+-   entrepreneurship;
+-   supply chain management.
+
+### Digunakan oleh
+
+-   hampir semua industri;
+-   startup;
+-   corporate;
+-   consulting.
+
+------------------------------------------------------------------------
+
 # 6. Human & Social Knowledge
 
 ## Psychology
@@ -1539,6 +1611,35 @@ Hampir semua perusahaan memiliki fungsi berikut.
 -   architecture;
 -   governance.
 
+## Customer Success
+
+-   onboarding;
+-   adoption;
+-   health score;
+-   renewal;
+-   upsell;
+-   churn prevention;
+-   advocacy.
+
+## Data & Analytics
+
+-   data collection;
+-   data governance;
+-   data pipeline;
+-   reporting;
+-   business intelligence;
+-   data science;
+-   data quality.
+
+## Risk & Compliance
+
+-   risk assessment;
+-   policy enforcement;
+-   regulatory compliance;
+-   audit;
+-   control testing;
+-   incident management.
+
 ------------------------------------------------------------------------
 
 # 10. Occupation & Job Knowledge
@@ -1994,6 +2095,39 @@ Mengelola:
 -   assessment;
 -   grade;
 -   completion.
+
+## 12.9 ITSM
+
+Mengelola:
+
+-   incident;
+-   problem;
+-   change;
+-   service request;
+-   asset;
+-   configuration item.
+
+## 12.10 BI / Data Platform
+
+Mengelola:
+
+-   data source;
+-   pipeline;
+-   warehouse;
+-   dashboard;
+-   report;
+-   data quality.
+
+## 12.11 Marketing Automation
+
+Mengelola:
+
+-   campaign;
+-   audience segment;
+-   email;
+-   lead scoring;
+-   journey;
+-   attribution.
 
 ------------------------------------------------------------------------
 
