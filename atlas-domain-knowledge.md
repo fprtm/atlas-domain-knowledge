@@ -1515,6 +1515,1265 @@ Design
 
 ------------------------------------------------------------------------
 
+## Z. Textile & Garment Manufacturing
+
+### Subdomain
+
+-   spinning;
+-   weaving;
+-   knitting;
+-   dyeing & finishing;
+-   garment/CMT;
+-   fashion design;
+-   textile trading.
+
+### Roles
+
+-   cutting supervisor;
+-   sewing line leader;
+-   QC inspector;
+-   pattern maker;
+-   merchandiser;
+-   fabric buyer;
+-   production planner.
+
+### Processes
+
+-   marker layout;
+-   cutting;
+-   sewing;
+-   finishing;
+-   QC inline & endline;
+-   packing;
+-   sample development;
+-   fabric inspection;
+-   shipment compliance.
+
+### Systems
+
+-   cutting order system;
+-   sewing line balancing;
+-   QC defect tracking;
+-   fabric inventory (roll/lot);
+-   CMT order portal;
+-   sample tracker;
+-   dyeing batch log.
+
+### Data
+
+-   style;
+-   purchase order;
+-   fabric roll;
+-   cutting marker;
+-   bundle;
+-   defect;
+-   operator;
+-   skill matrix;
+-   trim consumption;
+-   shipment.
+
+### AI
+
+-   defect pattern recognition;
+-   line balancing optimization;
+-   fabric consumption prediction;
+-   shade matching;
+-   demand forecasting.
+
+------------------------------------------------------------------------
+
+## AA. Woodworking & Furniture
+
+### Subdomain
+
+-   solid wood furniture;
+-   panel-based furniture;
+-   custom/interior;
+-   wood trading;
+-   CNC machining;
+-   finishing/coating.
+
+### Roles
+
+-   workshop foreman;
+-   CNC operator;
+-   finishing technician;
+-   interior designer;
+-   quality inspector;
+-   wood buyer.
+
+### Processes
+
+-   design/drafting;
+-   material selection;
+-   cutting/machining;
+-   assembly;
+-   finishing (cat/politur/laminasi);
+-   QC;
+-   packing;
+-   delivery/installation.
+
+### Systems
+
+-   custom order configurator;
+-   wood stock grading;
+-   workshop job tracker;
+-   BOM calculator;
+-   CNC job queue;
+-   interior project board.
+
+### Data
+
+-   wood batch;
+-   grade;
+-   moisture;
+-   BOM;
+-   job order;
+-   work station;
+-   finishing spec;
+-   defect;
+-   waste log.
+
+### AI
+
+-   wood grain classification;
+-   cutting layout optimization;
+-   demand forecasting;
+-   AR furniture visualization;
+-   defect detection.
+
+------------------------------------------------------------------------
+
+## AB. Beauty, Salon & Personal Care
+
+### Subdomain
+
+-   hair salon;
+-   barbershop;
+-   spa;
+-   nail art;
+-   skin care clinic;
+-   beauty product retail.
+
+### Roles
+
+-   stylist/hairdresser;
+-   therapist;
+-   beautician;
+-   receptionist;
+-   salon owner;
+-   product advisor.
+
+### Processes
+
+-   booking/reservation;
+-   walk-in queue;
+-   treatment/service;
+-   product recommendation;
+-   payment & commission;
+-   membership management;
+-   before-after documentation.
+
+### Systems
+
+-   salon booking;
+-   POS (jasa + retail);
+-   commission tracker;
+-   membership manager;
+-   product inventory;
+-   loyalty program.
+
+### Data
+
+-   customer;
+-   treatment history;
+-   allergy/preference;
+-   product usage;
+-   commission;
+-   membership;
+-   before-after photo.
+
+### AI
+
+-   skin analysis (image);
+-   treatment recommendation;
+-   demand prediction (slot);
+-   churn prediction;
+-   product replenishment.
+
+------------------------------------------------------------------------
+
+## AC. F&B Production & FMCG
+
+### Subdomain
+
+-   food manufacturing;
+-   beverage manufacturing;
+-   snack & bakery;
+-   frozen food;
+-   FMCG distribution;
+-   halal/HACCP compliance.
+
+### Roles
+
+-   production supervisor;
+-   QA/QC officer;
+-   R&D formulator;
+-   warehouse keeper;
+-   distributor;
+-   packaging designer.
+
+### Processes
+
+-   batch production;
+-   recipe formulation & scaling;
+-   HACCP/halal monitoring;
+-   packaging & labeling;
+-   FIFO inventory;
+-   distribution/ordering;
+-   product recall.
+
+### Systems
+
+-   batch production log;
+-   recipe management;
+-   halal/HACCP checklist;
+-   FIFO tracker;
+-   distributor portal;
+-   label generator;
+-   cold chain monitor.
+
+### Data
+
+-   batch;
+-   recipe;
+-   raw material;
+-   SKU;
+-   expiry date;
+-   distributor;
+-   temperature log;
+-   recall record.
+
+### AI
+
+-   demand forecasting;
+-   shelf life prediction;
+-   recipe optimization;
+-   anomaly detection (cold chain);
+-   quality grading.
+
+------------------------------------------------------------------------
+
+## AD. Field Marketing & Activation
+
+### Subdomain
+
+-   trade marketing;
+-   brand activation;
+-   field sales;
+-   merchandising;
+-   canvassing;
+-   event activation.
+
+### Roles
+
+-   SPG/SPB;
+-   merchandiser;
+-   field sales;
+-   brand ambassador;
+-   canvasser;
+-   area supervisor;
+-   trade marketing manager.
+
+### Processes
+
+-   attendance & GPS check-in;
+-   display/planogram audit;
+-   sampling distribution;
+-   route visit;
+-   lead capture;
+-   competitor price collection;
+-   event activation;
+-   expense claim.
+
+### Systems
+
+-   SPG attendance app;
+-   merchandiser audit;
+-   field sales route;
+-   sampling reconciler;
+-   BA roster;
+-   promo dashboard;
+-   lead capture.
+
+### Data
+
+-   visit;
+-   attendance;
+-   audit photo;
+-   display compliance;
+-   sampling stock;
+-   lead;
+-   competitor price;
+-   promo ROI.
+
+### AI
+
+-   planogram compliance detection (image);
+-   route optimization;
+-   lead scoring;
+-   promo uplift prediction;
+-   competitor price analysis.
+
+------------------------------------------------------------------------
+
+## AE. Mental Health & Counseling
+
+### Subdomain
+
+-   individual therapy;
+-   group therapy;
+-   corporate wellbeing;
+-   crisis intervention;
+-   psychoeducation;
+-   clinical supervision.
+
+### Roles
+
+-   psychologist;
+-   psychiatrist;
+-   counselor;
+-   clinical supervisor;
+-   HR wellbeing;
+-   crisis operator;
+-   client/patient.
+
+### Processes
+
+-   screening/intake;
+-   session booking;
+-   clinical documentation;
+-   mood tracking;
+-   outcome measurement;
+-   supervision;
+-   crisis triage;
+-   psychoeducation delivery.
+
+### Systems
+
+-   session booking;
+-   encrypted clinical notes;
+-   mood journal;
+-   screening tools (PHQ-9, GAD-7);
+-   supervision log;
+-   corporate wellbeing portal;
+-   crisis hotline queue.
+
+### Data
+
+-   client;
+-   session;
+-   clinical note;
+-   screening score;
+-   mood entry;
+-   treatment plan;
+-   outcome measure;
+-   supervision record.
+
+### AI
+
+-   mood pattern analysis;
+-   risk assessment (crisis);
+-   treatment matching;
+-   psychoeducation recommendation;
+-   outcome prediction.
+
+------------------------------------------------------------------------
+
+## AF. AI & Data Products
+
+### Subdomain
+
+-   LLM/generative AI;
+-   machine learning ops;
+-   data labeling;
+-   AI safety;
+-   data engineering;
+-   AI-as-a-service.
+
+### Roles
+
+-   ML engineer;
+-   data scientist;
+-   data labeler/annotator;
+-   AI product manager;
+-   prompt engineer;
+-   MLOps engineer.
+
+### Processes
+
+-   prompt engineering & testing;
+-   data labeling & QC;
+-   model training & evaluation;
+-   model deployment & registry;
+-   cost monitoring;
+-   guardrail testing;
+-   feature engineering;
+-   experiment tracking.
+
+### Systems
+
+-   prompt playground;
+-   data labeling queue;
+-   model registry;
+-   RAG knowledge base;
+-   AI cost monitor;
+-   eval benchmark runner;
+-   feature store;
+-   experiment tracker.
+
+### Data
+
+-   prompt;
+-   labeled dataset;
+-   model version;
+-   metric;
+-   experiment;
+-   feature;
+-   embedding;
+-   cost log;
+-   guardrail result.
+
+### AI
+
+-   automated evaluation;
+-   synthetic data generation;
+-   model selection;
+-   cost optimization;
+-   adversarial testing.
+
+------------------------------------------------------------------------
+
+## AG. Process Automation & Integration
+
+### Subdomain
+
+-   workflow automation;
+-   RPA;
+-   API integration;
+-   document processing;
+-   notification systems;
+-   ETL/data pipelines.
+
+### Roles
+
+-   automation engineer;
+-   integration developer;
+-   business analyst;
+-   IT admin;
+-   citizen developer (no-code).
+
+### Processes
+
+-   workflow design;
+-   form mapping;
+-   scheduled reporting;
+-   webhook relay;
+-   document OCR & extraction;
+-   task recording & replay;
+-   approval routing;
+-   notification dispatch.
+
+### Systems
+
+-   visual workflow builder;
+-   form-to-API bridge;
+-   scheduled report runner;
+-   webhook monitor;
+-   OCR pipeline;
+-   RPA recorder;
+-   API gateway;
+-   ETL builder;
+-   notification hub;
+-   approval engine.
+
+### Data
+
+-   workflow;
+-   trigger;
+-   task;
+-   webhook event;
+-   extracted document;
+-   approval;
+-   notification;
+-   schedule;
+-   integration log.
+
+### AI
+
+-   intelligent document extraction;
+-   workflow recommendation;
+-   anomaly detection (pipeline);
+-   natural language to workflow;
+-   auto-classification (incoming docs).
+
+------------------------------------------------------------------------
+
+## AH. Pet Care & Veterinary
+
+### Subdomain
+
+-   veterinary clinic;
+-   pet grooming;
+-   pet hotel/boarding;
+-   pet shop;
+-   pet adoption;
+-   pet breeding;
+-   pet insurance.
+
+### Roles
+
+-   veterinarian;
+-   vet nurse/tech;
+-   groomer;
+-   pet hotel attendant;
+-   pet shop owner;
+-   breeder;
+-   pet owner.
+
+### Processes
+
+-   consultation & diagnosis;
+-   vaccination & prevention;
+-   grooming booking;
+-   boarding check-in/out;
+-   retail sale;
+-   adoption screening;
+-   breeding & pedigree;
+-   emergency triage.
+
+### Systems
+
+-   vet EMR;
+-   grooming booking;
+-   pet hotel occupancy;
+-   pet shop POS;
+-   vaccination scheduler;
+-   adoption board;
+-   breeding tracker.
+
+### Data
+
+-   pet;
+-   owner;
+-   medical record;
+-   vaccination;
+-   grooming record;
+-   boarding;
+-   pedigree;
+-   nutrition;
+-   insurance claim.
+
+### AI
+
+-   breed identification (image);
+-   nutrition recommendation;
+-   disease risk prediction;
+-   emergency triage;
+-   demand forecasting (grooming).
+
+------------------------------------------------------------------------
+
+## AI_. Freelancer & Creator Economy
+
+### Subdomain
+
+-   freelance services;
+-   content creation;
+-   gig economy;
+-   creator monetization;
+-   digital services marketplace.
+
+### Roles
+
+-   freelancer;
+-   content creator;
+-   influencer;
+-   client;
+-   platform operator;
+-   gig worker.
+
+### Processes
+
+-   project scoping;
+-   proposal/quotation;
+-   contract signing;
+-   time tracking;
+-   deliverable review;
+-   invoicing;
+-   content scheduling;
+-   analytics review;
+-   tax calculation.
+
+### Systems
+
+-   project tracker;
+-   invoice generator;
+-   client portal;
+-   content calendar;
+-   portfolio builder;
+-   contract/e-sign;
+-   time tracker;
+-   analytics dashboard;
+-   tax calculator.
+
+### Data
+
+-   project;
+-   invoice;
+-   contract;
+-   deliverable;
+-   time log;
+-   content;
+-   revenue;
+-   tax;
+-   client.
+
+### AI
+
+-   rate card recommendation;
+-   content optimization;
+-   demand prediction;
+-   auto-invoicing;
+-   audience analytics.
+
+------------------------------------------------------------------------
+
+## AJ. Elderly & Home Care
+
+### Subdomain
+
+-   home care nursing;
+-   elderly companionship;
+-   assisted living;
+-   geriatric medicine;
+-   caregiver services.
+
+### Roles
+
+-   caregiver;
+-   home care nurse;
+-   geriatrician;
+-   family member;
+-   care coordinator;
+-   occupational therapist.
+
+### Processes
+
+-   caregiver matching;
+-   visit scheduling;
+-   daily activity monitoring;
+-   medication management;
+-   vital signs recording;
+-   fall detection & alert;
+-   family reporting;
+-   billing.
+
+### Systems
+
+-   caregiver visit log;
+-   medication scheduler;
+-   family update portal;
+-   caregiver matching;
+-   fall detection alert;
+-   home care billing;
+-   daily activity planner;
+-   cognitive exercise app.
+
+### Data
+
+-   patient/elderly;
+-   caregiver;
+-   visit log;
+-   medication;
+-   vital signs;
+-   activity;
+-   fall event;
+-   family contact;
+-   billing.
+
+### AI
+
+-   fall risk prediction;
+-   medication interaction check;
+-   cognitive decline detection;
+-   caregiver scheduling optimization;
+-   activity anomaly alert.
+
+------------------------------------------------------------------------
+
+## AK. Laundry & Cleaning Services
+
+### Subdomain
+
+-   laundry retail (kg/item);
+-   dry cleaning;
+-   cleaning services;
+-   linen rental;
+-   industrial laundry.
+
+### Roles
+
+-   laundry operator;
+-   delivery driver;
+-   cleaning crew;
+-   shop owner;
+-   customer.
+
+### Processes
+
+-   order intake (weight/item);
+-   washing/drying;
+-   ironing/folding;
+-   pickup & delivery;
+-   cleaning dispatch;
+-   membership management;
+-   damage claim;
+-   machine maintenance.
+
+### Systems
+
+-   laundry order tracker;
+-   laundry POS;
+-   pickup/delivery scheduler;
+-   cleaning crew dispatcher;
+-   membership manager;
+-   damage claim log;
+-   machine utilization monitor.
+
+### Data
+
+-   order;
+-   item;
+-   weight;
+-   machine;
+-   delivery;
+-   membership;
+-   damage claim;
+-   chemical supply.
+
+### AI
+
+-   demand forecasting;
+-   route optimization (pickup/delivery);
+-   machine maintenance prediction;
+-   pricing optimization;
+-   stain detection (image).
+
+------------------------------------------------------------------------
+
+## AL. Marine & Fisheries
+
+### Subdomain
+
+-   capture fisheries;
+-   aquaculture;
+-   seafood processing;
+-   fish market/auction;
+-   marine logistics;
+-   fishery compliance.
+
+### Roles
+
+-   fisherman/nakhoda;
+-   aquaculture farmer;
+-   fish auction operator;
+-   cold chain operator;
+-   fishery inspector;
+-   feed technician.
+
+### Processes
+
+-   catch logging;
+-   pond monitoring;
+-   fish auction/bidding;
+-   cold chain management;
+-   vessel trip management;
+-   permit/licensing;
+-   feed formulation;
+-   harvest planning.
+
+### Systems
+
+-   fish catch log;
+-   aquaculture pond monitor;
+-   fish auction marketplace;
+-   cold chain tracker;
+-   vessel trip tracker;
+-   permit log;
+-   feed calculator;
+-   water quality alert.
+
+### Data
+
+-   catch;
+-   species;
+-   pond;
+-   water quality;
+-   feed;
+-   vessel;
+-   trip;
+-   auction;
+-   temperature;
+-   permit.
+
+### AI
+
+-   catch prediction;
+-   water quality anomaly detection;
+-   feed optimization;
+-   species identification (image);
+-   price forecasting.
+
+------------------------------------------------------------------------
+
+## AM. Printing & Packaging
+
+### Subdomain
+
+-   offset printing;
+-   digital printing;
+-   large format;
+-   packaging manufacturing;
+-   label printing;
+-   pre-press/design.
+
+### Roles
+
+-   print operator;
+-   pre-press technician;
+-   designer;
+-   sales/estimator;
+-   QC inspector;
+-   print shop owner.
+
+### Processes
+
+-   quotation/estimation;
+-   artwork approval;
+-   pre-press setup;
+-   printing;
+-   finishing (cutting/laminating);
+-   QC (color proof);
+-   packing & delivery.
+
+### Systems
+
+-   print job tracker;
+-   print calculator/quoter;
+-   artwork approval portal;
+-   paper/ink inventory;
+-   die-cut library;
+-   production scheduler;
+-   color proof validator.
+
+### Data
+
+-   job order;
+-   artwork;
+-   proof;
+-   paper stock;
+-   ink;
+-   die-cut template;
+-   machine;
+-   color delta.
+
+### AI
+
+-   color matching;
+-   print defect detection;
+-   demand forecasting;
+-   layout optimization;
+-   pricing estimation.
+
+------------------------------------------------------------------------
+
+## AN. Wedding & Event Organizer
+
+### Subdomain
+
+-   wedding organizer;
+-   event management;
+-   venue management;
+-   catering;
+-   decoration;
+-   entertainment booking.
+
+### Roles
+
+-   event organizer;
+-   venue manager;
+-   vendor (catering/deco/photo);
+-   client (bride/groom/host);
+-   crew/runner;
+-   MC.
+
+### Processes
+
+-   event planning & timeline;
+-   vendor sourcing & booking;
+-   guest RSVP & seating;
+-   budget management;
+-   rundown execution;
+-   photo/video delivery;
+-   post-event feedback.
+
+### Systems
+
+-   event project board;
+-   vendor directory;
+-   guest RSVP & seating;
+-   budget planner;
+-   rundown tracker;
+-   venue calendar;
+-   photo/video portal;
+-   feedback collector.
+
+### Data
+
+-   event;
+-   vendor;
+-   guest;
+-   seating;
+-   budget;
+-   rundown;
+-   venue;
+-   feedback;
+-   contract.
+
+### AI
+
+-   vendor recommendation;
+-   budget optimization;
+-   seating optimization;
+-   sentiment analysis (feedback);
+-   demand forecasting (venue).
+
+------------------------------------------------------------------------
+
+## AO. Pharmacy & Drug Distribution
+
+### Subdomain
+
+-   community pharmacy;
+-   hospital pharmacy;
+-   drug distribution (PBF);
+-   compounding;
+-   herbal/traditional medicine.
+
+### Roles
+
+-   pharmacist;
+-   pharmacy technician;
+-   distributor;
+-   prescribing physician;
+-   patient;
+-   regulatory officer (BPOM).
+
+### Processes
+
+-   prescription processing;
+-   drug dispensing;
+-   controlled drug logging;
+-   FIFO/expiry management;
+-   PBF ordering;
+-   stock optimization;
+-   drug interaction checking;
+-   shift handover.
+
+### Systems
+
+-   pharmacy POS;
+-   drug FIFO tracker;
+-   PBF order system;
+-   controlled drug log;
+-   stock optimizer;
+-   drug interaction checker;
+-   patient medication history;
+-   shift handover system.
+
+### Data
+
+-   drug/SKU;
+-   prescription;
+-   batch;
+-   expiry;
+-   controlled drug record;
+-   patient;
+-   medication history;
+-   supplier;
+-   distribution.
+
+### AI
+
+-   drug interaction prediction;
+-   demand forecasting;
+-   generic substitution recommendation;
+-   expiry risk scoring;
+-   stock optimization.
+
+------------------------------------------------------------------------
+
+## AP. Repair & Maintenance Services
+
+### Subdomain
+
+-   electronics repair;
+-   appliance repair;
+-   AC/HVAC service;
+-   plumbing/electrical;
+-   facility maintenance;
+-   warranty service.
+
+### Roles
+
+-   technician;
+-   dispatcher;
+-   customer service;
+-   spare part buyer;
+-   warranty admin;
+-   customer.
+
+### Processes
+
+-   ticket creation;
+-   diagnosis;
+-   technician dispatch;
+-   spare part sourcing;
+-   repair execution;
+-   warranty claim;
+-   maintenance contract;
+-   customer follow-up.
+
+### Systems
+
+-   repair ticket tracker;
+-   technician dispatch;
+-   spare part finder;
+-   warranty portal;
+-   pricing estimator;
+-   maintenance contract manager;
+-   device registry;
+-   knowledge base.
+
+### Data
+
+-   ticket;
+-   device;
+-   diagnosis;
+-   spare part;
+-   warranty;
+-   contract;
+-   technician;
+-   service history.
+
+### AI
+
+-   fault diagnosis (symptom → cause);
+-   spare part recommendation;
+-   technician matching;
+-   predictive maintenance;
+-   pricing estimation.
+
+------------------------------------------------------------------------
+
+## AQ. Childcare & Early Education
+
+### Subdomain
+
+-   daycare;
+-   preschool/TK;
+-   PAUD;
+-   early childhood development;
+-   after-school care.
+
+### Roles
+
+-   teacher/pengasuh;
+-   daycare owner;
+-   parent/guardian;
+-   nutritionist;
+-   child psychologist.
+
+### Processes
+
+-   check-in/out;
+-   daily activity & reporting;
+-   milestone tracking;
+-   meal planning;
+-   teacher scheduling;
+-   tuition billing;
+-   incident reporting;
+-   pickup authorization.
+
+### Systems
+
+-   daycare check-in app;
+-   daily report system;
+-   milestone tracker;
+-   meal/allergy planner;
+-   teacher roster;
+-   billing system;
+-   incident report;
+-   pickup authorization.
+
+### Data
+
+-   child;
+-   parent;
+-   attendance;
+-   daily report;
+-   milestone;
+-   meal;
+-   allergy;
+-   incident;
+-   tuition.
+
+### AI
+
+-   developmental milestone prediction;
+-   meal/nutrition optimization;
+-   attendance anomaly detection;
+-   learning activity recommendation;
+-   sentiment analysis (parent feedback).
+
+------------------------------------------------------------------------
+
+## AR. Photography & Creative Services
+
+### Subdomain
+
+-   wedding/event photography;
+-   commercial photography;
+-   videography;
+-   studio rental;
+-   post-production/editing.
+
+### Roles
+
+-   photographer;
+-   videographer;
+-   editor/retoucher;
+-   studio manager;
+-   client;
+-   creative director.
+
+### Processes
+
+-   booking & scheduling;
+-   brief/mood board;
+-   shooting;
+-   editing/post-production;
+-   gallery delivery;
+-   equipment management;
+-   model release;
+-   portfolio management.
+
+### Systems
+
+-   booking scheduler;
+-   gallery delivery portal;
+-   editing workflow tracker;
+-   equipment log;
+-   mood board tool;
+-   pricing builder;
+-   release manager;
+-   portfolio system.
+
+### Data
+
+-   booking;
+-   client;
+-   shoot;
+-   gallery;
+-   edit task;
+-   equipment;
+-   model release;
+-   portfolio;
+-   package/pricing.
+
+### AI
+
+-   auto-culling (photo selection);
+-   image enhancement;
+-   face detection & tagging;
+-   style transfer;
+-   pricing recommendation.
+
+------------------------------------------------------------------------
+
+## AS. Community & Religious Organizations
+
+### Subdomain
+
+-   masjid/musholla;
+-   gereja;
+-   vihara/pura;
+-   RT/RW;
+-   komunitas warga;
+-   yayasan keagamaan.
+
+### Roles
+
+-   pengurus masjid/gereja;
+-   ketua RT/RW;
+-   bendahara;
+-   marbot;
+-   volunteer;
+-   anggota jemaat/jamaah.
+
+### Processes
+
+-   pencatatan anggota;
+-   pengelolaan donasi/infaq/iuran;
+-   penjadwalan kegiatan;
+-   booking fasilitas;
+-   pengumuman/broadcast;
+-   piket/duty roster;
+-   pelaporan keuangan.
+
+### Systems
+
+-   congregation directory;
+-   donation/infaq tracker;
+-   event scheduler;
+-   facility booking;
+-   iuran warga system;
+-   broadcast system;
+-   volunteer roster;
+-   financial report.
+
+### Data
+
+-   anggota;
+-   donasi;
+-   iuran;
+-   kegiatan;
+-   fasilitas;
+-   pengumuman;
+-   piket;
+-   kas.
+
+### AI
+
+-   donation prediction;
+-   event attendance forecasting;
+-   financial anomaly detection;
+-   broadcast targeting;
+-   community sentiment analysis.
+
+------------------------------------------------------------------------
+
 # 9. Cross-Industry Corporate Functions
 
 Hampir semua perusahaan memiliki fungsi berikut.
